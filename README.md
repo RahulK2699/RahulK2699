@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi... I am Rahul and i am full stack web developer
+
+Self-motivated and creative full-stack developer with a specialization in MERN stack. Interested in building innovative and attractive websites. Curious to work with an exciting company to develop full-fledged interactive products. 
+
+
+
+How to reach me : rahulkharche99@gmail.com
 
 <!--
 **RahulK2699/RahulK2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
