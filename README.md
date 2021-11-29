@@ -5,13 +5,6 @@ Self-motivated and creative full-stack developer with a specialization in MERN s
 
 fun fact : Apart from coding I love to travel as well as taste varity of foods, 
            funny guy who smiles everytime😊
-
-Skills : {
-           Frontend : HTML | CSS | Bootstrap | Javascript | ReactJS | Redux
-           Backend  : NodeJs 
-           DataBase : MongoDB | SQL | MySql
-           Data Structures and Algorithms
-         }
            
 How to reach me : rahulkharche99@gmail.com
 
