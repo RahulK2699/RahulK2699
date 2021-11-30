@@ -1,5 +1,4 @@
-###        Hi... I am Rahul👏 
-### I am full stack web developer
+###   <h2 align='center'>Hi... I am Rahul👏    I am full stack web developer</h2>
 
 Self-motivated and creative full-stack developer with a specialization in MERN stack. Interested in building innovative and attractive websites. Curious to work with an exciting company to develop full-fledged interactive products. 
 
