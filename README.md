@@ -7,12 +7,12 @@ fun fact : Apart from coding I love to travel as well as taste varity of foods,
            <br/>
            <br/>
 Tech Stacks :
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="42" width="55">
-           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yLUAtpraCuVRn-3rZySBoqTrYN-FYqOA3NQwExBzWhM0ApaJjvKu9PtxL2AIHybKNRs&usqp=CAU" height = "52" width="40">
-           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU" height = "42" width="55">
-           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" height = "42" width="55">
-           <img src = "https://ih1.redbubble.net/image.1637717834.1604/aps,504x498,small,transparent-pad,600x600,f8f8f8.u1.jpg" height = "42" width="50">
-           <img src = "https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo-500x400.gif" height = "42" width="55">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="42" width="55"> &nbsp;
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yLUAtpraCuVRn-3rZySBoqTrYN-FYqOA3NQwExBzWhM0ApaJjvKu9PtxL2AIHybKNRs&usqp=CAU" height = "52" width="40">&nbsp;
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOPJvR-kaQcRrzFQikt6g94ZSNoXHAW1vtrDuHuzHROHyf6RWRAiL-Y1BRWnVZShZEmT8&usqp=CAU" height = "42" width="55">&nbsp;
+           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/220px-Bootstrap_logo.svg.png" height = "42" width="55">&nbsp;
+           <img src = "https://ih1.redbubble.net/image.1637717834.1604/aps,504x498,small,transparent-pad,600x600,f8f8f8.u1.jpg" height = "42" width="50">&nbsp;
+           <img src = "https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo-500x400.gif" height = "42" width="55">&nbsp;
            <img src = "https://w7.pngwing.com/pngs/580/809/png-transparent-data-structure-logo-brand-data-structure-blue-text-logo.png" height = "42" width="50">
            
            
