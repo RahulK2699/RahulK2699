@@ -26,6 +26,12 @@ Social Profiles : <br/>
            
 How to reach me : rahulkharche99@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulK2699)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulK2699)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 You can checkout my projects below ⬇️
 <!--
 **RahulK2699/RahulK2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
